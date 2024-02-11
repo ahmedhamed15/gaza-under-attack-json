@@ -1,7 +1,7 @@
 [
     {
         "field": "martyrs",
-        "total": "27967",
+        "total": "28095",
         "items": [
             {
                 "title": "martyrs_gaza",
@@ -59,7 +59,7 @@
     },
     {
         "field": "injured",
-        "total": "71378",
+        "total": "71547",
         "items": [
             {
                 "title": "total_injured_in_gaza",
@@ -81,7 +81,7 @@
     },
     {
         "field": "detainees",
-        "total": "10870",
+        "total": "10900",
         "items": [
             {
                 "title": "west_bank_total_detainees",

@@ -1,23 +1,23 @@
 [
     {
         "field": "martyrs",
-        "total": "29254",
+        "total": "30099",
         "items": [
             {
                 "title": "martyrs_gaza",
-                "counter": "28858"
+                "counter": "29692"
             },
             {
                 "title": "martyrs_kids_gaza",
-                "counter": "12345"
+                "counter": "12660"
             },
             {
                 "title": "martyrs_women_gaza",
-                "counter": "8000"
+                "counter": "8570"
             },
             {
                 "title": "martyrs_west_bank",
-                "counter": "394"
+                "counter": "407"
             },
             {
                 "title": "martyrs_elderly_gaza",
@@ -25,7 +25,7 @@
             },
             {
                 "title": "medical_staff_martyrs",
-                "counter": "339"
+                "counter": "340"
             },
             {
                 "title": "press_martyrs",
@@ -59,15 +59,15 @@
     },
     {
         "field": "injured",
-        "total": "73177",
+        "total": "74479",
         "items": [
             {
                 "title": "total_injured_in_gaza",
-                "counter": "68677"
+                "counter": "69879"
             },
             {
                 "title": "total_injured_in_west_bank",
-                "counter": "4500"
+                "counter": "4600"
             },
             {
                 "title": "total_kids_injured_in_gaza",
@@ -81,11 +81,11 @@
     },
     {
         "field": "detainees",
-        "total": "11060",
+        "total": "11225",
         "items": [
             {
                 "title": "west_bank_total_detainees",
-                "counter": "7060"
+                "counter": "7225"
             },
             {
                 "title": "gaza_total_detainees",

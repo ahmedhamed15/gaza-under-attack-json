@@ -1,23 +1,23 @@
 [
     {
         "field": "martyrs",
-        "total": "34367",
+        "total": "34794",
         "items": [
             {
                 "title": "martyrs_gaza",
-                "counter": "33899"
+                "counter": "34305"
             },
             {
                 "title": "martyrs_kids_gaza",
-                "counter": "14000"
+                "counter": "14778"
             },
             {
                 "title": "martyrs_women_gaza",
-                "counter": "9220"
+                "counter": "9752"
             },
             {
                 "title": "martyrs_west_bank",
-                "counter": "468"
+                "counter": "489"
             },
             {
                 "title": "martyrs_elderly_gaza",
@@ -25,11 +25,11 @@
             },
             {
                 "title": "medical_staff_martyrs",
-                "counter": "364"
+                "counter": "491"
             },
             {
                 "title": "press_martyrs",
-                "counter": "135"
+                "counter": "140"
             },
             {
                 "title": "educational_staff_martyrs",
@@ -37,7 +37,7 @@
             },
             {
                 "title": "kids_martyrs_in_west_bank",
-                "counter": "116"
+                "counter": "123"
             },
             {
                 "title": "un_staff_martyrs",
@@ -45,7 +45,7 @@
             },
             {
                 "title": "civil_defense",
-                "counter": "48"
+                "counter": "67"
             },
             {
                 "title": "missing",
@@ -59,11 +59,11 @@
     },
     {
         "field": "injured",
-        "total": "81464",
+        "total": "82093",
         "items": [
             {
                 "title": "total_injured_in_gaza",
-                "counter": "76664"
+                "counter": "77293"
             },
             {
                 "title": "total_injured_in_west_bank",
@@ -81,11 +81,11 @@
     },
     {
         "field": "detainees",
-        "total": "13270",
+        "total": "13445",
         "items": [
             {
                 "title": "west_bank_total_detainees",
-                "counter": "8270"
+                "counter": "8445"
             },
             {
                 "title": "gaza_total_detainees",
@@ -99,7 +99,7 @@
         "items": [
             {
                 "title": "partially_damaged_housing_units",
-                "counter": "290000"
+                "counter": "294000"
             },
             {
                 "title": "hospitals_out_of_service",
@@ -111,7 +111,7 @@
             },
             {
                 "title": "destroyed_housing_units",
-                "counter": "79000"
+                "counter": "86000"
             },
             {
                 "title": "hospitals_damaged_due_to_missile_strike",
@@ -123,19 +123,19 @@
             },
             {
                 "title": "mosques_destroyed",
-                "counter": "290"
+                "counter": "317"
             },
             {
                 "title": "government_headquarters_destroyed",
-                "counter": "168"
+                "counter": "181"
             },
             {
                 "title": "schools_universities_destroyed",
-                "counter": "100"
+                "counter": "103"
             },
             {
                 "title": "partially_destroyed_schools_universities",
-                "counter": "305"
+                "counter": "309"
             },
             {
                 "title": "destroyed_ambulances",

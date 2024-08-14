@@ -1,23 +1,23 @@
 [
     {
         "field": "martyrs",
-        "total": "40154",
+        "total": "40519",
         "items": [
             {
                 "title": "martyrs_gaza",
-                "counter": "39550"
+                "counter": "39897"
             },
             {
                 "title": "martyrs_kids_gaza",
-                "counter": "16251"
+                "counter": "16365"
             },
             {
                 "title": "martyrs_women_gaza",
-                "counter": "10921"
+                "counter": "11012"
             },
             {
                 "title": "martyrs_west_bank",
-                "counter": "604"
+                "counter": "622"
             },
             {
                 "title": "martyrs_elderly_gaza",
@@ -29,7 +29,7 @@
             },
             {
                 "title": "press_martyrs",
-                "counter": "163"
+                "counter": "165"
             },
             {
                 "title": "educational_staff_martyrs",
@@ -41,7 +41,7 @@
             },
             {
                 "title": "un_staff_martyrs",
-                "counter": "152"
+                "counter": "203"
             },
             {
                 "title": "civil_defense",
@@ -59,15 +59,15 @@
     },
     {
         "field": "injured",
-        "total": "96630",
+        "total": "97502",
         "items": [
             {
                 "title": "total_injured_in_gaza",
-                "counter": "91280"
+                "counter": "92152"
             },
             {
                 "title": "total_injured_in_west_bank",
-                "counter": "5300"
+                "counter": "5350"
             },
             {
                 "title": "total_kids_injured_in_gaza",
@@ -81,11 +81,11 @@
     },
     {
         "field": "detainees",
-        "total": "14890",
+        "total": "15000",
         "items": [
             {
                 "title": "west_bank_total_detainees",
-                "counter": "9890"
+                "counter": "10000"
             },
             {
                 "title": "gaza_total_detainees",

@@ -1,43 +1,43 @@
 [
     {
         "field": "martyrs",
-        "total": "49269",
+        "total": "53503",
         "items": [
             {
                 "title": "martyrs_gaza",
-                "counter": "48346"
+                "counter": "52535"
             },
             {
                 "title": "martyrs_kids_gaza",
-                "counter": "17881"
+                "counter": "18000"
             },
             {
                 "title": "martyrs_women_gaza",
-                "counter": "12298"
+                "counter": "12400"
             },
             {
                 "title": "martyrs_west_bank",
-                "counter": "923"
+                "counter": "968"
             },
             {
                 "title": "martyrs_elderly_gaza",
-                "counter": "2421"
+                "counter": "3535"
             },
             {
                 "title": "medical_staff_martyrs",
-                "counter": "1068"
+                "counter": "1402"
             },
             {
                 "title": "press_martyrs",
-                "counter": "204"
+                "counter": "211"
             },
             {
                 "title": "educational_staff_martyrs",
-                "counter": "756"
+                "counter": "800"
             },
             {
                 "title": "kids_martyrs_in_west_bank",
-                "counter": "180"
+                "counter": "194"
             },
             {
                 "title": "un_staff_martyrs",
@@ -45,7 +45,7 @@
             },
             {
                 "title": "civil_defense",
-                "counter": "94"
+                "counter": "113"
             },
             {
                 "title": "missing",
@@ -59,11 +59,11 @@
     },
     {
         "field": "injured",
-        "total": "118459",
+        "total": "125191",
         "items": [
             {
                 "title": "total_injured_in_gaza",
-                "counter": "111759"
+                "counter": "118491"
             },
             {
                 "title": "total_injured_in_west_bank",
@@ -99,15 +99,15 @@
         "items": [
             {
                 "title": "partially_damaged_housing_units",
-                "counter": "297000"
+                "counter": "330500"
             },
             {
                 "title": "hospitals_out_of_service",
-                "counter": "34"
+                "counter": "17"
             },
             {
                 "title": "destroyed_buildings",
-                "counter": "+25010"
+                "counter": "+68918"
             },
             {
                 "title": "destroyed_housing_units",
@@ -123,23 +123,23 @@
             },
             {
                 "title": "mosques_destroyed",
-                "counter": "610"
+                "counter": "828"
             },
             {
                 "title": "government_headquarters_destroyed",
-                "counter": "200"
+                "counter": "224"
             },
             {
                 "title": "schools_universities_destroyed",
-                "counter": "122"
+                "counter": "142"
             },
             {
                 "title": "partially_destroyed_schools_universities",
-                "counter": "334"
+                "counter": "364"
             },
             {
                 "title": "destroyed_ambulances",
-                "counter": "131"
+                "counter": "144"
             }
         ]
     }

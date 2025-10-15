@@ -1,11 +1,11 @@
 [
     {
         "field": "martyrs",
-        "total": "62975",
+        "total": "68964",
         "items": [
             {
                 "title": "martyrs_gaza",
-                "counter": "61944"
+                "counter": "67913"
             },
             {
                 "title": "martyrs_kids_gaza",
@@ -17,7 +17,7 @@
             },
             {
                 "title": "martyrs_west_bank",
-                "counter": "1031"
+                "counter": "1051"
             },
             {
                 "title": "martyrs_elderly_gaza",
@@ -29,7 +29,7 @@
             },
             {
                 "title": "press_martyrs",
-                "counter": "238"
+                "counter": "252"
             },
             {
                 "title": "educational_staff_martyrs",
@@ -59,11 +59,11 @@
     },
     {
         "field": "injured",
-        "total": "164920",
+        "total": "179168",
         "items": [
             {
                 "title": "total_injured_in_gaza",
-                "counter": "155886"
+                "counter": "170134"
             },
             {
                 "title": "total_injured_in_west_bank",
@@ -107,7 +107,7 @@
             },
             {
                 "title": "destroyed_buildings",
-                "counter": "+68918"
+                "counter": "+102067"
             },
             {
                 "title": "destroyed_housing_units",
@@ -127,15 +127,15 @@
             },
             {
                 "title": "government_headquarters_destroyed",
-                "counter": "224"
+                "counter": "225"
             },
             {
                 "title": "schools_universities_destroyed",
-                "counter": "142"
+                "counter": "143"
             },
             {
                 "title": "partially_destroyed_schools_universities",
-                "counter": "364"
+                "counter": "366"
             },
             {
                 "title": "destroyed_ambulances",
@@ -144,4 +144,5 @@
         ]
     }
 ]
+
 
